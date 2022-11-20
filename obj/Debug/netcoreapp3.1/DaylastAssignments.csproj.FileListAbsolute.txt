@@ -1,0 +1,10 @@
+E:\bridgelab\DaylastAssignments\bin\Debug\netcoreapp3.1\DaylastAssignments.deps.json
+E:\bridgelab\DaylastAssignments\bin\Debug\netcoreapp3.1\DaylastAssignments.dll
+E:\bridgelab\DaylastAssignments\bin\Debug\netcoreapp3.1\DaylastAssignments.pdb
+E:\bridgelab\DaylastAssignments\obj\Debug\netcoreapp3.1\DaylastAssignments.csproj.AssemblyReference.cache
+E:\bridgelab\DaylastAssignments\obj\Debug\netcoreapp3.1\DaylastAssignments.GeneratedMSBuildEditorConfig.editorconfig
+E:\bridgelab\DaylastAssignments\obj\Debug\netcoreapp3.1\DaylastAssignments.AssemblyInfoInputs.cache
+E:\bridgelab\DaylastAssignments\obj\Debug\netcoreapp3.1\DaylastAssignments.AssemblyInfo.cs
+E:\bridgelab\DaylastAssignments\obj\Debug\netcoreapp3.1\DaylastAssignments.csproj.CoreCompileInputs.cache
+E:\bridgelab\DaylastAssignments\obj\Debug\netcoreapp3.1\DaylastAssignments.dll
+E:\bridgelab\DaylastAssignments\obj\Debug\netcoreapp3.1\DaylastAssignments.pdb
